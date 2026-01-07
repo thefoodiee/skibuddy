@@ -29,7 +29,7 @@ const Main = () => {
   };
 
   return (
-    <div className="relative z-20 flex flex-col items-center px-4 py-16 min-h-screen w-full">
+    <div className="relative z-20 flex flex-col items-center px-4 py-16 w-full">
       
       {/* Heading */}
       <div className="flex flex-col items-center text-center max-w-3xl">

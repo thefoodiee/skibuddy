@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div>
       <PageBackground src="/chicken.png"/>
-<div className="min-h-screen flex flex-col items-center justify-center text-center px-6">
+<div className="flex flex-col items-center justify-center text-center px-6">
       
       {/* Heading */}
       <h1 className="text-5xl md:text-6xl font-bold mb-12">
