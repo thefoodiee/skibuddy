@@ -6,37 +6,30 @@ const About = () => {
       <PageBackground src="/zombie.png"  />
       <div className="content m-auto w-screen text-center">
         <pre className="whitespace-pre-wrap text-white text-xl">
-          {`bro we woke up and said links too long = not valid
-so we summoned skibi.di at 3:17am
-keyboard clacking like skrrt skrrt
+          {`We had a simple thought: long links are unnecessary.
+So cutr was created to make them shorter and easier to share.
 
-you paste a link
-BOOM
-it gets put in a blender
-comes out SHORT. CLEAN. DESTRUCTIVE.
+You paste a link.
+It gets processed.
+You get a short, clean version that works the same, without the clutter.
 
-teachers hate it
-URLs fear it
-Google Chrome starts sweating
+It's useful for sharing,
+easier to remember,
+and looks better almost everywhere.
 
-“why is the link so small?”
-bc skibi.di ate the extra characters 😈
+If someone asks why the link is so short,
+the answer is simple — it's optimized.
 
-one click = dopamine
-two clicks = illegal
-three clicks = browser ascends
+Click it once, it opens.
+That's it. No tricks.
 
-not a link shortener
-it’s a link EVOLUTION
+It's not trying to be flashy.
+It just does one thing well.
 
-skibi di di di
-your URL is now mentally optimized
-share it. flex it. forget the original ever existed.
-
-skibi.di
-short links
-short attention span
-maximum brain damage 💥`}
+cutr
+short links  
+less clutter  
+no nonsense`}
         </pre>
       </div>
     </div>

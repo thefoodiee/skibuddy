@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "skibi.di - url shortener",
+  title: "cutr - url shortener",
   description: "url shortener",
 };
 

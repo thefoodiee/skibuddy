@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="font-bold flex flex-col md:flex-row gap-2 items-center justify-between p-5 px-7 text-xl">
       <div className="left flex-1">
-        <Link href="/">skibi.di</Link>
+        <Link href="/">cutr</Link>
       </div>
 
       <div className="middle flex-1 text-center">

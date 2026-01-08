@@ -70,7 +70,7 @@ const Main = () => {
           <input
             type="text"
             className="bg-[#0f172a] rounded-md border border-[#30394E] h-12 px-3 text-base outline-none focus:ring-2 focus:ring-indigo-500"
-            placeholder="skibi.di/your-tag"
+            placeholder="cutr/your-tag"
             value={shorturl}
             onChange={(e) => setShortUrl(e.target.value)}
           />
