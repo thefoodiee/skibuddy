@@ -1,4 +1,4 @@
-# skibi.di - URL Shortener
+# cutr - URL Shortener
 Try it out! - [cutrrr.vercel.app](https://cutrrr.vercel.app)
 
 A minimal URL shortener built with **Next.js** and **MongoDB**, powering **cutrrr**.
